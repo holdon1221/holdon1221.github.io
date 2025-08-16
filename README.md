@@ -30,8 +30,8 @@ npm start  # One command: setup → build → serve
 
 Your site will be live at: `https://YOUR-USERNAME.github.io/`
 
-⚠️ **Windows users**: Run terminal as Administrator if you encounter permission errors.
-⚠️ **Python deps**: Auto-installs PyMuPDF, Pillow, Tesseract. Activate your virtual environment before `npm install` if using one.
+- ⚠️ **Windows users**: Run terminal as Administrator if you encounter permission errors.
+- ⚠️ **Python deps**: Auto-installs PyMuPDF, Pillow, Tesseract. Activate your virtual environment before `npm install` if using one.
 
 ## 📋 Commands
 
@@ -64,7 +64,7 @@ scholarsite doctor          # Diagnose issues
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) file for details.
+MIT License - See [LICENSE](https://github.com/holdon1221/ScholarSite/blob/main/LICENSE) file for details.
 
 ---
 
