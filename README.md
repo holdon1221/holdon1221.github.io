@@ -2,6 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/holdon1221/ScholarSite?style=social)](https://github.com/holdon1221/ScholarSite/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/holdon1221/ScholarSite?style=social)](https://github.com/holdon1221/ScholarSite/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=flat&logo=github)](https://github.com/sponsors/holdon1221)
 
 Professional academic homepage builder with AI-powered features.
