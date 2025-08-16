@@ -1,0 +1,366 @@
+{
+  "personal": {
+    "name": "Demo Page",
+    "email": "demo@pa.ge",
+    "email2": "demo@pag.e",
+    "title": {
+      "en": "MS/Ph.D. Student & Professor",
+      "ko": "석사/박사 과정생 및 교수",
+      "fr": "Étudiant en MS/Doctorat & Professeur",
+      "ja": "修士・博士課程学生 兼 教授",
+      "es": "Estudiante de Maestría/Doctorado y Profesor",
+      "de": "Wissenschaftlicher Mitarbeiter mit Promotions- und Professorentitel",
+      "zh": "硕士/博士研究生与教授"
+    },
+    "orcid": "",
+    "google_scholar": "YOUR_GOOGLE_SCHOLAR_ID",
+    "bio": {
+      "en": "This is a demonstration paragraph placed here only to fill space and show how text will appear on the page. It has no real meaning, no connection to any introduction, and serves purely as a placeholder for layout purposes. Please ignore its content and focus only on the way it looks in the design.",
+      "ko": "본 단락은 페이지 레이아웃에서 텍스트의 외관을 보여주기 위한 시연용 텍스트로, 순수하게 공간을 채우고 시각적 배치를 시현하는 목적으로 제시되었다. 이 텍스트는 실질적인 의미나 어떠한 도입부와도 연관성이 없으며, 오직 디자인 레이아웃의 시각적 표현을 위한 임시 placeholder로서의 기능만을 수행한다. 독자는 본 텍스트의 내용에 주목하기보다는 디자인 내 텍스트 배치 방식에 집중해야 한다.",
+      "fr": "Ceci est un paragraphe de démonstration placé ici uniquement pour occuper l'espace et illustrer l'apparence du texte sur la page. Il n'a aucune signification réelle, aucun lien avec une introduction et sert purement de modèle à des fins de mise en page. Prière d'ignorer son contenu et de se concentrer uniquement sur son aspect dans la conception.",
+      "ja": "これは、ページ上のレイアウトを示すためにのみ配置されたデモンストレーション段落である。実質的な意味や、いかなる序論との関連性も持���ず、純粋にレイアウト目的のためのプレイスホルダーとして機能している。その内容は無視し、デザイン上の見た目にのみ注目されたい。",
+      "es": "Este es un párrafo demostrativo ubicado aquí únicamente para ocupar espacio y mostrar cómo aparecerá el texto en la página. No posee ningún significado real, ninguna conexión con una introducción y sirve puramente como marcador de posición con fines de diagramación. Le rogamos omitir su contenido y concentrarse exclusivamente en su apariencia dentro del diseño.",
+      "de": "Dies ist ein Demonstrationsabsatz, der ausschließlich platziert wurde, um Raum zu füllen und zu zeigen, wie Text auf der Seite erscheinen wird. Er hat keine wirkliche Bedeutung, keine Verbindung zu einer Einleitung und dient rein layouttechnischen Zwecken. Bitte ignorieren Sie seinen Inhalt und konzentrieren Sie sich ausschließlich auf seine Darstellung im Design.",
+      "zh": "这是一个演示段落，仅用于填充空间并展示文本在页面上的呈现方式。该段落本身并无实际意义，与任何引言均无关联，纯粹作为版面布局的占位符。请忽略其内容，仅关注其在设计中的视觉效果。"
+    }
+  },
+  "settings": {
+    "language": "en",
+    "supportedLanguages": [
+      "en",
+      "ko",
+      "fr",
+      "ja",
+      "es",
+      "de",
+      "zh"
+    ],
+    "enable_pdf_extraction": true,
+    "enable_llm_enhancement": true,
+    "enable_citation_crawler": true
+  },
+  "social": {
+    "github": "",
+    "linkedin": "",
+    "twitter": "",
+    "bluesky": "",
+    "instagram": "",
+    "researchgate": ""
+  },
+  "directories": {
+    "publications": "./publications",
+    "output": "./"
+  },
+  "sectionTitles": {
+    "section-experience": {
+      "en": "Experience",
+      "ko": "직무 경험",
+      "fr": "Expérience",
+      "ja": "職務経歴",
+      "es": "Experiencia",
+      "de": "Erfahrung",
+      "zh": "工作经验"
+    },
+    "section-ongoing-projects": {
+      "en": "Ongoing Projects",
+      "ko": "진행 중인 프로젝트",
+      "fr": "Projets en cours",
+      "ja": "進行中のプロジェクト",
+      "es": "Proyectos en curso",
+      "de": "Laufende Projekte",
+      "zh": "进行中的项目"
+    },
+    "section-publications": {
+      "en": "Publications",
+      "ko": "출판물",
+      "fr": "Publications",
+      "ja": "出版物",
+      "es": "Publicaciones",
+      "de": "Publikationen",
+      "zh": "出版物"
+    },
+    "section-achievements": {
+      "en": "Awards & Honors",
+      "ko": "수상 및 성과",
+      "fr": "Réalisations",
+      "ja": "受賞・表彰",
+      "es": "Logros",
+      "de": "Errungenschaften",
+      "zh": "获奖情况"
+    },
+    "section-education": {
+      "en": "Education",
+      "ko": "학력",
+      "fr": "Éducation",
+      "ja": "学歴",
+      "es": "Educación",
+      "de": "Ausbildung",
+      "zh": "教育"
+    }
+  },
+  "experiences": [
+    {
+      "title": {
+        "en": "Current Title",
+        "ko": "현재 직위",
+        "fr": "Titre actuel",
+        "ja": "現在の職位",
+        "es": "Cargo actual",
+        "de": "Aktueller Titel",
+        "zh": "当前职位"
+      },
+      "location": {
+        "en": "Seoul, Korea",
+        "ko": "서울, 한국",
+        "fr": "Séoul, Corée",
+        "ja": "ソウル、韓国",
+        "es": "Seúl, Corea",
+        "de": "Seoul, Korea",
+        "zh": "首尔, 韩国"
+      },
+      "period": {
+        "en": "Mar. 2024-present",
+        "ko": "2024년 3월-현재",
+        "fr": "Mar. 2024-présent",
+        "ja": "2024年3月-現在",
+        "es": "Marzo 2024-presente",
+        "de": "März 2024-heute",
+        "zh": "2024年3月-至今"
+      },
+      "description": {
+        "en": [
+          "Modify config.json",
+          "Add description"
+        ],
+        "ko": [
+          "config.json 수정",
+          "설명 추가"
+        ],
+        "fr": [
+          "Modifier config.json",
+          "Ajouter une description"
+        ],
+        "ja": [
+          "config.jsonを編集",
+          "説明を追加"
+        ],
+        "es": [
+          "Modificar config.json",
+          "Agregar descripción"
+        ],
+        "de": [
+          "config.json bearbeiten",
+          "Beschreibung hinzufügen"
+        ],
+        "zh": [
+          "修改 config.json",
+          "添加描述"
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Previous Title",
+        "ko": "이전 직위",
+        "fr": "Titre précédent",
+        "ja": "以前の職位",
+        "es": "Cargo anterior",
+        "de": "Vorheriger Titel",
+        "zh": "前职位"
+      },
+      "location": {
+        "en": "New York, USA",
+        "ko": "뉴욕, 미국",
+        "fr": "New York, États-Unis",
+        "ja": "ニューヨーク、アメリカ",
+        "es": "New York, Estados Unidos",
+        "de": "New York, USA",
+        "zh": "纽约, 美国"
+      },
+      "period": {
+        "en": "Sep. 2023-Feb. 2024",
+        "ko": "2023년 9월-2024년 2월",
+        "fr": "Sep. 2023-Fév. 2024",
+        "ja": "2023年9月-2024年2月",
+        "es": "Septiembre 2023-Febrero 2024",
+        "de": "September 2023-Februar 2024",
+        "zh": "2023年9月-2024年2月"
+      },
+      "description": {
+        "en": [
+          "Modify config.json",
+          "Add description"
+        ],
+        "ko": [
+          "config.json 수정",
+          "설명 추가"
+        ],
+        "fr": [
+          "Modifier config.json",
+          "Ajouter une description"
+        ],
+        "ja": [
+          "config.jsonを編集",
+          "説明を追加"
+        ],
+        "es": [
+          "Modificar config.json",
+          "Agregar descripción"
+        ],
+        "de": [
+          "config.json bearbeiten",
+          "Beschreibung hinzufügen"
+        ],
+        "zh": [
+          "修改 config.json",
+          "添加描述"
+        ]
+      }
+    }
+  ],
+  "ongoingProject": [
+    {
+      "name": {
+        "en": "Research Project",
+        "ko": "연구 프로젝트",
+        "fr": "Projet de Recherche",
+        "ja": "研究プロジェクト",
+        "es": "Proyecto de Investigación",
+        "de": "Forschungsprojekt",
+        "zh": "研究项目"
+      },
+      "progress": 85,
+      "description": {
+        "en": "Developing innovative solutions for complex research problems",
+        "ko": "복잡한 연구 문제에 대한 혁신적 솔루션 개발",
+        "fr": "Développement de solutions innovantes pour des problèmes de recherche complexes",
+        "ja": "複雑な研究問題に対する革新的ソリューションの開発",
+        "es": "Desarrollo de soluciones innovadoras para problemas de investigación complejos",
+        "de": "Entwicklung innovativer Lösungen für komplexe Forschungsprobleme",
+        "zh": "为复杂研究问题开发创新解决方案"
+      }
+    }
+  ],
+  "achievements": [
+    {
+      "name": {
+        "en": "Excellence in Research Award",
+        "ko": "연구 우수상",
+        "fr": "Prix d'Excellence en Recherche",
+        "ja": "研究優秀賞",
+        "es": "Premio de Excelencia en Investigación",
+        "de": "Forschungsexzellenz-Auszeichnung",
+        "zh": "研究优秀奖"
+      },
+      "period": {
+        "en": "Aug. 2024",
+        "ko": "2024년 8월",
+        "fr": "Août 2024",
+        "ja": "2024年8月",
+        "es": "Agosto 2024",
+        "de": "August 2024",
+        "zh": "2024年8月"
+      },
+      "where": {
+        "en": "Academic Society",
+        "ko": "학술회",
+        "fr": "Société Académique",
+        "ja": "学術会",
+        "es": "Sociedad Académica",
+        "de": "Akademische Gesellschaft",
+        "zh": "学术会"
+      }
+    },
+    {
+      "name": {
+        "en": "Best Paper Award",
+        "ko": "최우수 논문상",
+        "fr": "Prix du Meilleur Article",
+        "ja": "最優秀論文賞",
+        "es": "Premio al Mejor Artículo",
+        "de": "Beste Arbeit Auszeichnung",
+        "zh": "最佳论文奖"
+      },
+      "period": {
+        "en": "2023",
+        "ko": "2023년",
+        "fr": "2023",
+        "ja": "2023年",
+        "es": "2023",
+        "de": "2023",
+        "zh": "2023年"
+      },
+      "where": {
+        "en": "International Research Conference",
+        "ko": "국제 연구 컨퍼런스",
+        "fr": "Conférence Internationale de Recherche",
+        "ja": "国際研究会議",
+        "es": "Conferencia Internacional de Investigación",
+        "de": "Internationale Forschungskonferenz",
+        "zh": "国际研究会议"
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": {
+        "en": "Ph.D. in Research Field",
+        "ko": "연구 분야 박사",
+        "fr": "Doctorat en Domaine de Recherche",
+        "ja": "研究分野博士",
+        "es": "Doctorado en Campo de Investigación",
+        "de": "Doktorat im Forschungsbereich",
+        "zh": "研究领域博士"
+      },
+      "university": {
+        "en": "Research University",
+        "ko": "연구 대학교",
+        "fr": "Université de Recherche",
+        "ja": "研究大学",
+        "es": "Universidad de Investigación",
+        "de": "Forschungsuniversität",
+        "zh": "研究型大学"
+      },
+      "period": {
+        "en": "2022-present",
+        "ko": "2022년-현재",
+        "fr": "2022-présent",
+        "ja": "2022年-現在",
+        "es": "2022-presente",
+        "de": "2022-heute",
+        "zh": "2022年-至今"
+      },
+      "gpa": "3.9/4.0"
+    },
+    {
+      "degree": {
+        "en": "M.S. in Research Field",
+        "ko": "연구 분야 석사",
+        "fr": "Master en Domaine de Recherche",
+        "ja": "研究分野修士",
+        "es": "Maestría en Campo de Investigación",
+        "de": "Master im Forschungsbereich",
+        "zh": "研究领域硕士"
+      },
+      "university": {
+        "en": "Academic University",
+        "ko": "학술 대학교",
+        "fr": "Université Académique",
+        "ja": "学術大学",
+        "es": "Universidad Académica",
+        "de": "Akademische Universität",
+        "zh": "学术大学"
+      },
+      "period": {
+        "en": "2020-2022",
+        "ko": "2020년-2022년",
+        "fr": "2020-2022",
+        "ja": "2020年-2022年",
+        "es": "2020-2022",
+        "de": "2020-2022",
+        "zh": "2020年-2022年"
+      },
+      "gpa": "4.0/4.0"
+    }
+  ]
+}
