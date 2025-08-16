@@ -8,7 +8,7 @@ Professional academic homepage builder with AI-powered features.
 
 ## 📖 Demo
 
-**[🌐 View Live Demo](https://holdon1221.github.io/ScholarSite/)**
+**[🌐 View Live Demo](https://holdon1221.github.io/)**
 
 See what your academic homepage will look like!
 
@@ -31,15 +31,6 @@ Your site will be live at: `https://YOUR-USERNAME.github.io/`
 
 ⚠️ **Windows users**: Run terminal as Administrator if you encounter permission errors.
 ⚠️ **Python deps**: Auto-installs PyMuPDF, Pillow, Tesseract. Activate your virtual environment before `npm install` if using one.
-
-## ✨ What Happens
-
-1. **Environment Check**: Verifies Node.js ≥18.0.0
-2. **Auto-Install**: Downloads and installs all dependencies
-3. **Interactive Setup**: Guides you through configuration
-4. **PDF Processing**: Extracts and enhances your publications
-5. **Homepage Generation**: Creates your professional website
-6. **Local Server**: Serves at `http://localhost:8000`
 
 ## 📋 Commands
 
@@ -67,7 +58,7 @@ scholarsite doctor          # Diagnose issues
 
 ## 🙏 Acknowledgments
 
-- **Citation Crawler**: Inspired by [RayeRen/rayeren.github.io](https://github.com/RayeRen/rayeren.github.io)
+- **Citation Crawler**: Inspired by [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 - **Development**: Built with assistance from [Claude Code](https://claude.ai/code)
 
 ## 📄 License
